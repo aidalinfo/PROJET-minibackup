@@ -1,0 +1,11 @@
+_format_version: "3.0"
+_transform: true
+
+# Déclaration des services
+services:
+  - name: auth
+    url: http://auth:9999
+    routes:
+      - name: auth-route
+        paths:
+          - /auth
