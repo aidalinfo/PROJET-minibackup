@@ -1,0 +1,12 @@
+[submodule "mini-backup"]
+	path = mini-backup
+	url = git@github.com:aidalinfo/mini-backup.git
+[submodule "modules-minibackup"]
+	path = modules-minibackup
+	url = git@github.com:aidalinfo/modules-minibackup.git
+[submodule "ui-minibackup-nuxt"]
+	path = ui-minibackup-nuxt
+	url = git@github.com:aidalinfo/ui-minibackup-nuxt.git
+[submodule "gotrue"]
+	path = gotrue
+	url = git@github.com:aidalinfo/gotrue.git
